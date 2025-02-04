@@ -11,7 +11,7 @@ namespace alvin
 	
 	    public static void Main(string[] args)
 	    {
-	    	Console.WriteLine("insira um numero inteiro");
+	    	Console.WriteLine("insira uma cor");
 	    	string cor = (Console.ReadLine());
 	    
 	    	
